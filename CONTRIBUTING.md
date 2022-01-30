@@ -1,0 +1,2 @@
+- Everything related to your service has to go in its dedecated folder with the name of the init you support (for example [openrc](/openrc))
+- In that folder you have to make a README.md with at least installation instructions and if it has any, configuration instructions
